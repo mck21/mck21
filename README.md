@@ -22,7 +22,7 @@ const mck21 = {
     languages: {
         native: 'Spanish',
         advanced: ['English', 'Valencian'],
-        basic: ['Romanian']
+        basic: 'Romanian'
     },
     hobbies: ['✈️', '🏋🏼‍♂️', '🏀', '🎮', '📖'],
     theme: 'Dracula',
