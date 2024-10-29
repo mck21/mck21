@@ -8,7 +8,7 @@
 const mck21 = {        
     links: 'https://linktr.ee/mck21',
     technologies: {
-        code: ['TypeScript', 'JavaScript', 'Java', 'C#', 'Kotlin', 'HTML', 'CSS'],
+        code: ['TypeScript', 'Java', 'C#', 'Kotlin', 'HTML', 'CSS'],
         frameworks: ['Next', 'React', 'Node', 'Tailwind'],
         databases: ['MongoDB', 'MySQL'],  
         vcs: ['Git', 'GitHub'],
