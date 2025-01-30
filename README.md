@@ -6,7 +6,7 @@
 
 ```ts
 const mck21 = {        
-    links: 'https://linktr.ee/mck21',
+    links: 'https://mck21.xyz',
     technologies: {
         code: ['TypeScript', 'Java', 'C#', 'Python', 'Kotlin'],
         frameworks: ['Next', 'React', 'Tailwind'],
