@@ -8,8 +8,8 @@
 const mck21 = {        
     portfolio: 'https://mck21.xyz',
     technologies: {
-        code: ['TypeScript', 'Java', 'C#', 'Python', 'Kotlin'],
-        stack: ['Next', 'React', 'Tailwind'],
+        code: ['TypeScript', 'Python', 'Java', 'C#', 'Kotlin'],
+        stack: ['Next', 'React', 'Node', 'Tailwind'],
         databases: ['MongoDB', 'MySQL'],  
         vcs: ['Git', 'GitHub'],
         planning: 'Notion',             
