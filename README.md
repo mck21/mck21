@@ -12,18 +12,18 @@ const mck21 = {
         stack: ['Next', 'React', 'Node', 'Tailwind'],
         databases: ['MongoDB', 'MySQL'],  
         vcs: ['Git', 'GitHub'],
-        planning: 'Notion',             
+        planning: ['Linear', 'Notion'],
+        design: 'Figma',          
     },
     studies: {
         done: ['Cross-Platform App Development', 'Science IB (Bachiller)', 'B2 English'],
-        current: ['Data Analytics & AI Development', 'C1 English']
+        current: ['Data Analytics & AI Development', 'English C1']
     },
     languages: {
         native: 'Spanish',
         advanced: ['English', 'Valencian'],
-        basic: 'Romanian'
+        basic: 'Romanian',
     },
-    hobbies: ['✈️', '🏋🏼‍♂️', '🏀', '🎮', '📖'],
     since: '2022'
 };
 
