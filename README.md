@@ -16,7 +16,7 @@ const mck21 = {
         design: 'Figma',          
     },
     studies: {
-        done: ['Cross-Platform App Development', 'Science IB (Bachiller)', 'B2 English'],
+        done: ['Cross-Platform App Development', 'Science IB (Bachiller)', 'English B2'],
         current: ['Data Analytics & AI Development', 'English C1']
     },
     languages: {
