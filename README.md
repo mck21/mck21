@@ -6,7 +6,7 @@
 
 ```ts
 const mck21 = {        
-    portfolio: 'https://mck21.xyz',
+    portfolio: 'https://mck21.vercel.app',
     technologies: {
         code: ['TypeScript', 'Python', 'Java'],
         stack: ['Next', 'React', 'Node', 'Tailwind', 'Prisma', 'AWS'],
