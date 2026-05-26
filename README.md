@@ -10,7 +10,7 @@ const mck21 = {
     portfolio: 'https://mck21.vercel.app',
     technologies: {
         code: ['TypeScript', 'Python', 'Java'],
-        stack: ['AWS', 'Next.js', 'React', 'Node.js', 'Spring Boot']
+        stack: ['AWS', 'Terraform', 'Docker', 'Kubernetes', 'Next.js', 'Spring Boot']
     },
     studies: {
         done: ['Cross-Platform App Development', 'Data Analytics & AI Development'],
