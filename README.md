@@ -6,16 +6,16 @@
 
 ``` ts
 const mck21 = {
-    role: 'Fullstack Developer + Cloud',
+    role: 'Cloud DevOps Engineer | FullStack Developer',
     portfolio: 'https://mck21.vercel.app',
     technologies: {
         code: ['TypeScript', 'Python', 'Java'],
         stack: ['AWS', 'Terraform', 'Docker', 'Kubernetes', 'Next.js', 'Spring Boot']
     },
     studies: {
-        done: ['Cross-Platform App Development', 'Data Analytics & AI Development'],
-        current: ['AWS Cloud Computing'],
-        path: ['Cloud Architecture', 'Systems Design', 'DevOps']
+        done: ['AWS Cloud Computing', 'Cross-Platform App Development', 'Data Analytics & AI Development'],
+        certs: ['AWS Cloud Partitioner'],
+        next: ['AWS Solutions Architect', 'AWS Developer']
     },
     languages: ['🇪🇸', '🇬🇧', '🇷🇴'],
     since: '2022'
